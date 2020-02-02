@@ -1,3 +1,41 @@
 # Revolution
-The Revolution Will be Digitized
+Here is where I'll be posting my responses to The Revolution Will be Digitized readings!
+
+# Jan 27th HW
+## Thoughts on the Planetary: An Interview with Achilles Mbembe
+Mbembe’s arguments was really refreshing as it actually looked into the relationship people have with technology. Many philosophers/thinkers will kind of assume that humans could live without technology and discuss technology through the lens that it is this separate entity. Before this program, I similarly thought that while technology is bad. I mean, we could always just turn off our laptops, right? Yet, Mbembe makes it clear that turning off our screens will not do anything now. Not only do we have a symbiotic relationship but humans have completely changed because of technology’s presence.
+
+He explains that technology  “deeply changes the ways in which cognitive process unfold, how people dream, and what kind of change they dream about…”. Human behavior is just fundamentally different now. While I was really drawn to this argument because it perhaps one of the most honest looks on technology, this statement makes me wonder how we should discuss technology critically. Typically in a discussion, we use historical references. However, if humans no longer act or think the same, can we use those references? For instance, if humans are no longer think the same as they use to, then let’s say we are “Humans Version 2.” So how can we use the way people thought in “Humans Version One” for reference? 
+
+## The Pitfalls of Liberalism
+The arguments in the reading are the ones that have always been on the tip of my tongue but I just never knew how to convey them. Carmichael’s discussion on violence truly encapsulates how resistance is viewed and treated, especially in America. Our history is one that is violent and where dissent was seen as patriotic; however, as Carmichael explains, it is impossible for the oppressed minority to maintain these traits. 
+
+The other day I was thinking about how the words “pioneer”, “trailblazer”, and “voyager” are positive words, celebrating someone accomplishing something new, but are smeared with such violent historical origins (specifically where white men were violent to poc). It once again shows that violence is not considered a bad thing when the ball is the oppressor’s court.
+
+As I read this article, I found myself thinking about an experience I had at my previous school, in which a clearly white supremacist was coming to speak and students protested. The protest was not violent and no one got hurt, but it was aggressive. However, the school expelled the students (those predominately from minority backgrounds) for not upholding the school’s ethics on behavior. This experience perfectly embodies Carmichael’s thesis in this paper.
+
+## Radical Foundation of Indian Technoscience
+The relationship of technology and Indians was one I have been aware of since I was young and have seen transform over the last two decades. For instance, my parent’s hometown is a little town called Kota that is in the outskirts of Rajasthan. However, over the years, Kota has changed from a small town to the center of engineering tutoring. In India, it is common for a child to go to tutoring centers, but unlike in America, it is not so they can catch up on material in the classroom. Instead, tutoring centers teach students how to excel at exams so they can get into top colleges. 
+
+The Allen Institute along with other famous engineering tutoring centers are based in Kota and they are the best in the entire country. They not only sell the dream of getting a child into a top engineering school, like IIT (which is mentioned in the reading!) but have repeatedly succeeded. Children from all over India travel thousands of miles to attend these centers in what was typically known as just another small town. 
+
+I wanted to share this story because it shows how I was raised to see technology as an Indian. Technology is a thing of great social and economic power. Parents are willingly sending their kids thousands of miles away for months at a time so their kids can perhaps get a small chance to enter technology, leave Indian, and achieve the American Dream (or Canadian/anywhere else western).
+
+What I was surprised to discover in the reading was that technology was once seen as a tool of political power in India. While I understand the reasons technology was ultimately unable to stay a political tool, I have to admit I am a bit sad. 
+
+Before I read this article, I was always proud at how Indians found a tool like technology to mobilize their community to achieve success post-British power, however, this reading left me sad. What was once a tool to take power back, almost just feeds power back. I say that only because I do not see Indians in technology as people creating their own dreams, but instead as the people who are bringing to life the dreams of what is typically white cis-men. I guess this article has just really enlightened me that we need to start thinking about technology different. We have to stop thinking there is one way to approach this field because we are missing out on opportunities and just repeating past failings. I am planning on reaching out to people I know who are at the Allen Institute and ask if they are aware of the political history. I am curious if academics at these centers are working to rework how technology is approached.
+
+## Mandalas or Raised Fists
+This reading served as the perfect deep dive on our lecture from Monday, exploring a bit more into the relationship of Hippies and the Black Panther. I really appreciated how the reading took the time to discuss how privilege played a role between the two group since it was something I was really curious about after class. For example, the discussion on land-banking really examined how privilege, specifically white privilege, resulted in major differences in how the two groups were able to protest. As the reading explained, the Black Panther had to enter “he real estate market, [buy] land by direct purchase or often with borrowed money” in order to gain land. However, the hippies had the privilege of being able to just go and seize a park. I wonder if these differences due to privilege caused any tension between the groups? It also makes me wonder about how POC hippies felt at this time?
+
+## Research
+Outside of school, I have done a great deal of work on womxn’s rights, sexual health education, and advocating for the rights of survivors of sexual assault on college campuses. I decided to explore a bit more about what activists for survivors were doing in India for my research this week. While my parents are Indian, I want to acknowledge that I have never lived there or have a deep understanding of the country. For this assignment, I decided to simply do a Google Search and I found that it is become growingly clear that sexual assault is a huge issue in India. As of last year, there were over 30,000 reported cases and of course, most cases go unreported. What is on the mind of people is how violent these rapes have been, how many of targeted children, and how the criminal justice system is extremely flawed (not taking cases seriously, blaming victims, and not working fast enough). There are over 100,000 pending cases. The system is trying to make change happen, for instance the attackers in the Nirbhaya case have been charged with the death penalty which is the first time the death penalty has been charged in 15 years in India. Yet, this clearly is not change enough and  of course, activists are stepping up. One protest that I was really inspired by was the Dignity March in 2019. 5,000 women walked 10,000 km though 24 states in 65 days in order to humanize the movement and increase public dialogue on sexual violence. In a culture in which people are shamed for speaking up, this was an insanely powerful symbol. Unfortunately, these women were met with a great deal of violence from people during this march. However, their perseverance how serious this issue is and hopefully inspired people to enact change.
+
+https://time.com/5754565/india-rape-new-delhi-bus-attack/
+
+https://www.npr.org/2020/01/07/794247034/india-sets-executions-for-the-four-men-convicted-in-new-delhi-bus-rape-and-murde
+
+https://thewire.in/women/india-dignity-march-sexual-violence-stigma
+
+https://dignitymarch.org/
 
