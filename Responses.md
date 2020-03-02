@@ -1,6 +1,16 @@
 # The Revolution Will be Digitized
 Here is where I'll be posting my responses to The Revolution Will be Digitized readings!
 
+## March 2nd HW
+### Speculative Writing Assignment
+https://docs.google.com/document/d/1bWEOnOlyQdTsF0zj4Wrw8a9QNk3I5Xn778jIwNtAtTo/edit?usp=sharing
+
+### What is At Stake
+I have always felt really uncomfortable about speculative design and sci-fi. The main reason is I feel so weird about imagining a future, spending time/labour to create that future as a film or essay, while ignoring the real problems people are facing now. Sci-fi/speculative work always felt like it was a fantasy place that just ignores the real stories of trauma that are happening today. As I read this article, I realize there is definitely more nuance in these works than what I originally realized. These works, while fantasy, also result in how we shape our reality. I do think the article poses an interesting question indirectly about the ethics of speculative design with the Theranos example. Of course, Theranos was a horrible organization. Theranos moved past speculating a new world and took it way too far-- lying and manipulating to convince people that they could create that world today. However, should there be ethics in how we speculative, even before we even discuss making? In other words, should there be a rule book on how people should approach speculative design ethically so they do not get lost in the fanatsy (like Theranos)?
+
+### Plasmodial Properties
+Reading about slime mold made me realize that unfortuantely, pop-culture and American education has failed me (once again). I think the article explains it best 
+
 ## Feb 23rd HW
 ### Discriminating Systems
 As someone that is entering the tech industry within the next few months, I have been very aware of the giant and unwavering issues with diversity that this field has. As a result, most aspects of this article did not come as a huge surprise to me. Yet, I do think the article does a good job showing how increasing diversity is a holistic issue. It is not just about having more women or people from different background. It is about changing the environment and culture that breeds in tech-specific worlds so that they can create spaces for different voices to not only be seen but also heard. While I am glad this article talked about intersectionality, I am disappointed that the article only focused on race. Tech needs to do better about including people with disabilities (both invisible and visible). If technologists want to create products that serve all they cannot just do so for the abled. It also frustrated me how technologists were using the term “cognitive diversity” but not including those with different cognitive abilities. It is clear how ableist the tech world is but it is disheartening that the article failed to include that.
