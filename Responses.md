@@ -2,6 +2,16 @@
 Here is where I'll be posting my responses to The Revolution Will be Digitized readings!
 
 ## March 2nd HW
+### What is at Stake
+I have always felt really uncomfortable about speculative design and sci-fi. The main reason is that I feel so weird about imagining a future while ignoring the real problems people are facing now. Sci-fi/speculative work always felt like a fantasy place that just ignores the real stories of trauma that are happening today. As I read this article, I realize there is definitely more nuance in these works than what I originally realized. These works, while fantasy, also result in how we shape our reality. I do think the article poses an interesting question indirectly about the ethics of speculative design with the Theranos example. Of course, Theranos was a horrible organization. Theranos moved past speculating a new world and took it way too far-- lying and manipulating to convince people that they could create that world today. However, should there be ethics in how we speculative, even before we even discuss making? In other words, should there be a rule book on how people should approach speculative design ethically so they do not get lost in the fantasy (like Theranos)?
+
+### Plasmodial Properties
+Reading about slime mold made me realize that unfortunately, American education has failed me (once again). Slime mold for Octavia Butler, and everyone else, really reimagines many scientific concepts of what it means to be a body. However, I and none of my friends have ever heard of slime mold. I understand that science education (especially up till high school) is to help you gain a better understanding of the natural world. As a result, it can be confusing to present information that contradicts specific notions. However, I feel like smile mold does not complicate but instead offers new perspectives. It is frustrating that educational systems do not see that as well. 
+
+The article also mentioned many people are harnessing the power of slime mold for its ability but their works are never in conversation with slime mold's queerness. I feel like this a perfect example of how even if slime mold was taught in schools, I think it would somehow end up reiterating values that capitalism has brought to science rather than introducing new ones. I just feel like the education around slime mold would be focused on the efficiency, re-iterating the values of capitalism, and completely ignore how slime mold challenges what it means to work as a group/be an individual.
+
+
+
 ### Speculative Writing Assignment
 https://docs.google.com/document/d/1bWEOnOlyQdTsF0zj4Wrw8a9QNk3I5Xn778jIwNtAtTo/edit?usp=sharing
 
