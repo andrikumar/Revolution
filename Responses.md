@@ -1,6 +1,24 @@
 # The Revolution Will be Digitized
 Here is where I'll be posting my responses to The Revolution Will be Digitized readings!
 
+## March 9th HW
+### Interviews
+For the interview process, I tried my hardest to speak to a wide range of people both in age, location, and background.
+
+I spoke with people between the ages of 20 to 50 from LA, “hobby farm” areas of Washington, NYC, Redmond Washington, and the Bay Area.
+
+Their backgrounds were in data science, computer science, public health, biology, psychology, and art. 
+
+I did find a few trends in most of my discussions. Essentially, most people struggled to really talk about utopias. I realized that whenever I asked “what does your utopia look like”, it really stumped people. Instead, people found it a lot easier to envision dystopias. 
+Most of these dystopias took on a very 1984 or iRobot form, drenched with fears of surveillance and invasive AI. 
+
+When I asked what they thought could prevent this dystopia from happening, many of them felt stumped again. One person in particular kept saying there is really no way to prevent capitalism from corrupting technoculture. Of course, slowly everyone else did think of an idea or two. Surprisingly, they all ended up mentioning similar solutions. Specifically, they all ended up opting for some kind of federal government/institutional regulation.
+
+They craved a larger entity than themselves to mediate and play defense. One person imagined that the federal government would require all data collection to be transparent and all data to be accessible. A few others imagined a branch or maybe even a nonprofit like the ACLU dedicated to reigning in tech giants. The specific concerns were with ethical practices (like they do in biology). When I questioned them about their trust of the government, everyone said they do not actually believe the government could do a good job. When I would follow-up with “who should be in charge then?”, they would answer something along the lines of “oh I guess a non-profit”.
+
+One conversation that I had really stuck out was one I had with a researcher at NYU Langone who was able to really imagine a utopia. She talked about she sees so much bad in the medical field and the issues are really a result of human error. For instance, she felt that AI doctors could be a way to alleviate doctor bias. She explained that the data these AI doctors would be trained on needed to  obviously be edited by sociologists. Yet, she thinks that if the data is curated right, the AI could really powerful. She imagined these AI doctors to be in the role of a specialist rather than a pediatrician or a primary care doctor. She imagined that possibly the AI doctor could scan a patient, see inflammation levels, and this would be a new way to determine pain rather than what is typically done (a doctor asking a patient or relying on the patient’s facial expressions when they press on certain areas of the body). 
+
+This conversation stood out to me because it was the only one that really reimagined the use of AI to create something better. Surprisingly, outside of that one conversation, everyone really struggled with imagining a world different from what they were already told. People were aware of issues but couldn’t see how anything could be changed. If anything, I learned the importance of fantasy after these interviews since most people struggled with fantasizes how technology could be used differently. Everyone just felt like it had to be regulated but never thought that it could possibly be used differently.
 ## March 2nd HW
 ### What is at Stake
 I have always felt really uncomfortable about speculative design and sci-fi. The main reason is that I feel so weird about imagining a future while ignoring the real problems people are facing now. Sci-fi/speculative work always felt like a fantasy place that just ignores the real stories of trauma that are happening today. As I read this article, I realize there is definitely more nuance in these works than what I originally realized. These works, while fantasy, also result in how we shape our reality. I do think the article poses an interesting question indirectly about the ethics of speculative design with the Theranos example. Of course, Theranos was a horrible organization. Theranos moved past speculating a new world and took it way too far-- lying and manipulating to convince people that they could create that world today. However, should there be ethics in how we speculative, even before we even discuss making? In other words, should there be a rule book on how people should approach speculative design ethically so they do not get lost in the fantasy (like Theranos)?
