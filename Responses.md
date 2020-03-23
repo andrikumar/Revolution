@@ -1,6 +1,17 @@
 # The Revolution Will be Digitized
 Here is where I'll be posting my responses to The Revolution Will be Digitized readings!
 
+## March 23th HW
+### More Interviews
+https://docs.google.com/spreadsheets/d/19NojxWecoNl8lcdPuH_yPtu6UEmgPMnDGT45UTlOMIY/edit?usp=sharing
+These were response done online. The survey was blasted on all social media sites (Linkedin, Instagram, Facebook, Twitter) by multiple people, reaching over 500 people.
+
+### Presentation
+https://docs.google.com/presentation/d/1vubc1w-_TmowAXSxRJDuOeP0NvmfGg2jWTZpunCoPPA/edit?usp=sharing
+
+### Manifesto
+https://docs.google.com/document/d/1H9WuUlGbihw2tyrxHlQgjJM08wJCTagSNhJ6rh4QZ5U/edit?usp=sharing
+
 ## March 9th HW
 ### Interviews
 For the interview process, I tried my hardest to speak to a wide range of people both in age, location, and background.
